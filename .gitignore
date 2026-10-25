@@ -18,17 +18,6 @@
 *.user
 *.userprefs
 
-# Build artifacts
-*.apk
-*.aab
-*.unitypackage
-
-# Large downloads / installers
-Windows Download/
-*.exe
-*.msi
-*.zip
-
 # OS files
 .DS_Store
 Thumbs.db
