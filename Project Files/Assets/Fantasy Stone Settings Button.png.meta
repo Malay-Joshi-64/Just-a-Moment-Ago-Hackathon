@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: c25e59a2a5bc8724db15da70637a9ddb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2935937380881600821
+    second: Fantasy Stone Settings Button_0
+  - first:
+      213: 7952881950146968089
+    second: Fantasy Stone Settings Button_1
+  - first:
+      213: -4321676445946849604
+    second: Fantasy Stone Settings Button_2
+  - first:
+      213: -5691293554843406460
+    second: Fantasy Stone Settings Button_3
+  - first:
+      213: 4701347929867270536
+    second: Fantasy Stone Settings Button_4
+  - first:
+      213: -6576396859759559869
+    second: Fantasy Stone Settings Button_5
+  - first:
+      213: 5334730894745538926
+    second: Fantasy Stone Settings Button_6
+  - first:
+      213: -9180162483647742288
+    second: Fantasy Stone Settings Button_7
+  - first:
+      213: -5438168000456164597
+    second: Fantasy Stone Settings Button_8
+  - first:
+      213: 6984073293612251222
+    second: Fantasy Stone Settings Button_9
+  - first:
+      213: 1020336803359402373
+    second: Fantasy Stone Settings Button_10
+  - first:
+      213: -5476196117600252022
+    second: Fantasy Stone Settings Button_11
+  - first:
+      213: 2029228401086134392
+    second: Fantasy Stone Settings Button_12
+  - first:
+      213: -8969960202488093891
+    second: Fantasy Stone Settings Button_13
+  - first:
+      213: -5466061590490028481
+    second: Fantasy Stone Settings Button_14
+  - first:
+      213: -6934601042225657996
+    second: Fantasy Stone Settings Button_15
+  - first:
+      213: 2535329886320329908
+    second: Fantasy Stone Settings Button_16
+  - first:
+      213: 5900034336622694138
+    second: Fantasy Stone Settings Button_17
+  - first:
+      213: -7304949520295049255
+    second: Fantasy Stone Settings Button_18
+  - first:
+      213: 2626401877530336012
+    second: Fantasy Stone Settings Button_19
+  - first:
+      213: -7439199798491142593
+    second: Fantasy Stone Settings Button_20
+  - first:
+      213: -166687654704150924
+    second: Fantasy Stone Settings Button_21
+  - first:
+      213: 8713869380961372177
+    second: Fantasy Stone Settings Button_22
+  - first:
+      213: -3374923313778029863
+    second: Fantasy Stone Settings Button_23
+  - first:
+      213: 8605351785790240942
+    second: Fantasy Stone Settings Button_24
+  - first:
+      213: -4768667351864201417
+    second: Fantasy Stone Settings Button_25
+  - first:
+      213: 1509688865359191690
+    second: Fantasy Stone Settings Button_26
+  - first:
+      213: -2727368100456550605
+    second: Fantasy Stone Settings Button_27
+  - first:
+      213: 2739518824559327267
+    second: Fantasy Stone Settings Button_28
+  - first:
+      213: 3801695759967973788
+    second: Fantasy Stone Settings Button_29
+  - first:
+      213: 5214290338494440459
+    second: Fantasy Stone Settings Button_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fantasy Stone Settings Button_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 23
+        width: 2123
+        height: 693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5311d3e1e7b8eb820800000000000000
+      internalID: 2935937380881600821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Stone Settings Button_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 31
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a302b5fff4e5e60800000000000000
+      internalID: 7952881950146968089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Stone Settings Button_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 55
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb65a2d6b225604c0800000000000000
+      internalID: -4321676445946849604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Stone Settings Button_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 47
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fa6176aa67401b0800000000000000
+      internalID: -5691293554843406460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Stone Settings Button_4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 47
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889b14d880b8e3140800000000000000
+      internalID: 4701347929867270536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Stone Settings Button_5
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 29
+        width: 60
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b790836e1fbb4a0800000000000000
+      internalID: -6576396859759559869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Stone Settings Button_6
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 37
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e611c91fb75c80a40800000000000000
+      internalID: 5334730894745538926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Stone Settings Button_7
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 31
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0befec51cd2899080800000000000000
+      internalID: -9180162483647742288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Stone Settings Button_8
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 43
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bf9e7240fb784b0800000000000000
+      internalID: -5438168000456164597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Stone Settings Button_9
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 47
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658fc0748a96ce060800000000000000
+      internalID: 6984073293612251222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Stone Settings Button_10
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 49
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589ae7baae6f82e00800000000000000
+      internalID: 1020336803359402373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Stone Settings Button_11
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 45
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f401a25a4a004b0800000000000000
+      internalID: -5476196117600252022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Stone Settings Button_12
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 34
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8787fdeba74492c10800000000000000
+      internalID: 2029228401086134392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Stone Settings Button_13
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 47
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d336e4188bc448380800000000000000
+      internalID: -8969960202488093891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Stone Settings Button_14
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 49
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f366f62a1f5a424b0800000000000000
+      internalID: -5466061590490028481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Stone Settings Button_15
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 37
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477061bd71953cf90800000000000000
+      internalID: -6934601042225657996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Stone Settings Button_16
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 31
+        width: 53
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b40e8e491d4f2320800000000000000
+      internalID: 2535329886320329908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Stone Settings Button_17
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 69
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afec00d28f121e150800000000000000
+      internalID: 5900034336622694138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Stone Settings Button_18
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 47
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d747a45d1b9f9a90800000000000000
+      internalID: -7304949520295049255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Stone Settings Button_19
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 63
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b5d93a79ad27420800000000000000
+      internalID: 2626401877530336012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Stone Settings Button_20
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 48
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3627c5a237a2c890800000000000000
+      internalID: -7439199798491142593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Stone Settings Button_21
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 33
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4768ae0167ecfadf0800000000000000
+      internalID: -166687654704150924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Stone Settings Button_22
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 31
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1180b5fa802ede870800000000000000
+      internalID: 8713869380961372177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Stone Settings Button_23
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 39
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da8312902dd921d0800000000000000
+      internalID: -3374923313778029863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Stone Settings Button_24
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 45
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8fc472bd95c6770800000000000000
+      internalID: 8605351785790240942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Stone Settings Button_25
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 33
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fa1281f4a42ddb0800000000000000
+      internalID: -4768667351864201417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Stone Settings Button_26
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 39
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ed81d360e73f410800000000000000
+      internalID: 1509688865359191690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Stone Settings Button_27
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 71
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f2e80b921762ad0800000000000000
+      internalID: -2727368100456550605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Stone Settings Button_28
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 33
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328ba593bd9b40620800000000000000
+      internalID: 2739518824559327267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Stone Settings Button_29
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 39
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91fff4c62652c430800000000000000
+      internalID: 3801695759967973788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Stone Settings Button_30
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 33
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0466b5bf61ec5840800000000000000
+      internalID: 5214290338494440459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fantasy Stone Settings Button_0: 2935937380881600821
+      Fantasy Stone Settings Button_1: 7952881950146968089
+      Fantasy Stone Settings Button_10: 1020336803359402373
+      Fantasy Stone Settings Button_11: -5476196117600252022
+      Fantasy Stone Settings Button_12: 2029228401086134392
+      Fantasy Stone Settings Button_13: -8969960202488093891
+      Fantasy Stone Settings Button_14: -5466061590490028481
+      Fantasy Stone Settings Button_15: -6934601042225657996
+      Fantasy Stone Settings Button_16: 2535329886320329908
+      Fantasy Stone Settings Button_17: 5900034336622694138
+      Fantasy Stone Settings Button_18: -7304949520295049255
+      Fantasy Stone Settings Button_19: 2626401877530336012
+      Fantasy Stone Settings Button_2: -4321676445946849604
+      Fantasy Stone Settings Button_20: -7439199798491142593
+      Fantasy Stone Settings Button_21: -166687654704150924
+      Fantasy Stone Settings Button_22: 8713869380961372177
+      Fantasy Stone Settings Button_23: -3374923313778029863
+      Fantasy Stone Settings Button_24: 8605351785790240942
+      Fantasy Stone Settings Button_25: -4768667351864201417
+      Fantasy Stone Settings Button_26: 1509688865359191690
+      Fantasy Stone Settings Button_27: -2727368100456550605
+      Fantasy Stone Settings Button_28: 2739518824559327267
+      Fantasy Stone Settings Button_29: 3801695759967973788
+      Fantasy Stone Settings Button_3: -5691293554843406460
+      Fantasy Stone Settings Button_30: 5214290338494440459
+      Fantasy Stone Settings Button_4: 4701347929867270536
+      Fantasy Stone Settings Button_5: -6576396859759559869
+      Fantasy Stone Settings Button_6: 5334730894745538926
+      Fantasy Stone Settings Button_7: -9180162483647742288
+      Fantasy Stone Settings Button_8: -5438168000456164597
+      Fantasy Stone Settings Button_9: 6984073293612251222
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

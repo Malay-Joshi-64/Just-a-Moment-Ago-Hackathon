@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: d2bab4eb16e7de14c91c0c0d68cdbca8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6328687833235135334
+    second: Medieval Stone PAUSED Title_0
+  - first:
+      213: 3655527143622277878
+    second: Medieval Stone PAUSED Title_1
+  - first:
+      213: 9198300267830779355
+    second: Medieval Stone PAUSED Title_2
+  - first:
+      213: -6695125572951017525
+    second: Medieval Stone PAUSED Title_3
+  - first:
+      213: -4623750794335161284
+    second: Medieval Stone PAUSED Title_4
+  - first:
+      213: 5260420241762698817
+    second: Medieval Stone PAUSED Title_5
+  - first:
+      213: -6677299826927153095
+    second: Medieval Stone PAUSED Title_6
+  - first:
+      213: -1780438421461110740
+    second: Medieval Stone PAUSED Title_7
+  - first:
+      213: 8169536129465657319
+    second: Medieval Stone PAUSED Title_8
+  - first:
+      213: -2642308852641129509
+    second: Medieval Stone PAUSED Title_9
+  - first:
+      213: 1019223219654794529
+    second: Medieval Stone PAUSED Title_10
+  - first:
+      213: -1987099804322331777
+    second: Medieval Stone PAUSED Title_11
+  - first:
+      213: 181289789430149556
+    second: Medieval Stone PAUSED Title_12
+  - first:
+      213: -4833232616027442631
+    second: Medieval Stone PAUSED Title_13
+  - first:
+      213: 7245006362616121691
+    second: Medieval Stone PAUSED Title_14
+  - first:
+      213: 3663792861989208941
+    second: Medieval Stone PAUSED Title_15
+  - first:
+      213: 5922581548746783177
+    second: Medieval Stone PAUSED Title_16
+  - first:
+      213: -826357681009295919
+    second: Medieval Stone PAUSED Title_17
+  - first:
+      213: 1043186030657231309
+    second: Medieval Stone PAUSED Title_18
+  - first:
+      213: -5877846234476121430
+    second: Medieval Stone PAUSED Title_19
+  - first:
+      213: -6902964536708627390
+    second: Medieval Stone PAUSED Title_20
+  - first:
+      213: -3208027885220149308
+    second: Medieval Stone PAUSED Title_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Medieval Stone PAUSED Title_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 37
+        width: 425
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94eead42fbfb28a0800000000000000
+      internalID: -6328687833235135334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Stone PAUSED Title_1
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 65
+        width: 1803
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa776eb19a0bb230800000000000000
+      internalID: 3655527143622277878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Stone PAUSED Title_2
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 79
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd1f61eb5de6af70800000000000000
+      internalID: 9198300267830779355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Stone PAUSED Title_3
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 97
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7fe9183c22613a0800000000000000
+      internalID: -6695125572951017525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Stone PAUSED Title_4
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 95
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34f8b5762325dfb0800000000000000
+      internalID: -4623750794335161284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Stone PAUSED Title_5
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 87
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1464a87c654c00940800000000000000
+      internalID: 5260420241762698817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Stone PAUSED Title_6
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 79
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930da3d6f277553a0800000000000000
+      internalID: -6677299826927153095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Stone PAUSED Title_7
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 85
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c207a5850bc9a47e0800000000000000
+      internalID: -1780438421461110740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Stone PAUSED Title_8
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 96
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7258063d5006170800000000000000
+      internalID: 8169536129465657319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Stone PAUSED Title_9
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 114
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb947b1912a45bd0800000000000000
+      internalID: -2642308852641129509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Stone PAUSED Title_10
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 115
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d9a524e12052e00800000000000000
+      internalID: 1019223219654794529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Stone PAUSED Title_11
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 116
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f738e1e81476c64e0800000000000000
+      internalID: -1987099804322331777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Stone PAUSED Title_12
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 112
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1b36c5a12148200800000000000000
+      internalID: 181289789430149556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Stone PAUSED Title_13
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 112
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9323ad41b88ececb0800000000000000
+      internalID: -4833232616027442631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Stone PAUSED Title_14
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 99
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59cd2fa6ee6b8460800000000000000
+      internalID: 7245006362616121691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Stone PAUSED Title_15
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 116
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d638a75423868d230800000000000000
+      internalID: 3663792861989208941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Stone PAUSED Title_16
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 95
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9b5561a8c313250800000000000000
+      internalID: 5922581548746783177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Stone PAUSED Title_17
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 104
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd760e31103884f0800000000000000
+      internalID: -826357681009295919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Stone PAUSED Title_18
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 97
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc959f7fa242a7e00800000000000000
+      internalID: 1043186030657231309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Stone PAUSED Title_19
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 112
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2feadedf1bd6ea0800000000000000
+      internalID: -5877846234476121430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Stone PAUSED Title_20
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 115
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2440d5cc35eb330a0800000000000000
+      internalID: -6902964536708627390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Stone PAUSED Title_21
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 72
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7c7ef92abca73d0800000000000000
+      internalID: -3208027885220149308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Medieval Stone PAUSED Title_0: -6328687833235135334
+      Medieval Stone PAUSED Title_1: 3655527143622277878
+      Medieval Stone PAUSED Title_10: 1019223219654794529
+      Medieval Stone PAUSED Title_11: -1987099804322331777
+      Medieval Stone PAUSED Title_12: 181289789430149556
+      Medieval Stone PAUSED Title_13: -4833232616027442631
+      Medieval Stone PAUSED Title_14: 7245006362616121691
+      Medieval Stone PAUSED Title_15: 3663792861989208941
+      Medieval Stone PAUSED Title_16: 5922581548746783177
+      Medieval Stone PAUSED Title_17: -826357681009295919
+      Medieval Stone PAUSED Title_18: 1043186030657231309
+      Medieval Stone PAUSED Title_19: -5877846234476121430
+      Medieval Stone PAUSED Title_2: 9198300267830779355
+      Medieval Stone PAUSED Title_20: -6902964536708627390
+      Medieval Stone PAUSED Title_21: -3208027885220149308
+      Medieval Stone PAUSED Title_3: -6695125572951017525
+      Medieval Stone PAUSED Title_4: -4623750794335161284
+      Medieval Stone PAUSED Title_5: 5260420241762698817
+      Medieval Stone PAUSED Title_6: -6677299826927153095
+      Medieval Stone PAUSED Title_7: -1780438421461110740
+      Medieval Stone PAUSED Title_8: 8169536129465657319
+      Medieval Stone PAUSED Title_9: -2642308852641129509
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

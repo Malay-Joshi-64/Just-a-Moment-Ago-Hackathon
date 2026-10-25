@@ -1,0 +1,815 @@
+fileFormatVersion: 2
+guid: 240e0d6c11a036d4f860d1910fdb3895
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1845112080676751099
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_0
+  - first:
+      213: 6171430058400448068
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_1
+  - first:
+      213: 6909406910935611581
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_2
+  - first:
+      213: -4443959736510469912
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_3
+  - first:
+      213: 2450090950907628656
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_4
+  - first:
+      213: -1719282561650876131
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_5
+  - first:
+      213: 4268600984512043213
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_6
+  - first:
+      213: 1762143629608348094
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_7
+  - first:
+      213: 7011607630112640843
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_8
+  - first:
+      213: -2540863176812577196
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_9
+  - first:
+      213: 3987357000413494354
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_10
+  - first:
+      213: -5134787599662855556
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_11
+  - first:
+      213: -6414298751937082718
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_12
+  - first:
+      213: 1646290253692050300
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_13
+  - first:
+      213: -7579123039984605163
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_14
+  - first:
+      213: -5205097540096857444
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_15
+  - first:
+      213: -757487696033055721
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_16
+  - first:
+      213: -7001295132727917592
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_17
+  - first:
+      213: -4080860442548086864
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_18
+  - first:
+      213: -4860163040695660236
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_19
+  - first:
+      213: -916149565416838735
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_20
+  - first:
+      213: 360373661358862489
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_21
+  - first:
+      213: 8410169044069916592
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_22
+  - first:
+      213: 4643418174803085512
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_23
+  - first:
+      213: 7367141191798279501
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_24
+  - first:
+      213: 2160179410680845092
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_25
+  - first:
+      213: -6478330635250835988
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_26
+  - first:
+      213: 814114327530673262
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_27
+  - first:
+      213: 3772256976936219359
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_28
+  - first:
+      213: 868463837285752726
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_29
+  - first:
+      213: -5664499419902199735
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_30
+  - first:
+      213: -3871906285716946899
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_31
+  - first:
+      213: -4890984283952193004
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_32
+  - first:
+      213: 4693004834899123732
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_33
+  - first:
+      213: 4562782389533332996
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_34
+  - first:
+      213: 9112421770270229116
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_35
+  - first:
+      213: -5360589730467792713
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_36
+  - first:
+      213: 5043280766335492588
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_37
+  - first:
+      213: -8157958034042283437
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_38
+  - first:
+      213: 3692229807287718732
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_39
+  - first:
+      213: 1266243156133139852
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_40
+  - first:
+      213: -660649376246122255
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_41
+  - first:
+      213: -1817680210975380653
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_42
+  - first:
+      213: 2403674437493234510
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_43
+  - first:
+      213: -4387644559858467041
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_44
+  - first:
+      213: 3903796185041907608
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_45
+  - first:
+      213: 5710174858631690365
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_46
+  - first:
+      213: -2272558205844018512
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_47
+  - first:
+      213: -4704777434048135275
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_48
+  - first:
+      213: 851924596034246268
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_49
+  - first:
+      213: 8733231634581504028
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_50
+  - first:
+      213: -2181827392427452208
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_51
+  - first:
+      213: -2101523410043804751
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_52
+  - first:
+      213: 8693936645994554820
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_53
+  - first:
+      213: 8723829350898684250
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_54
+  - first:
+      213: 2189632771044395322
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_55
+  - first:
+      213: 7846581202026088971
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_56
+  - first:
+      213: -7775818422905802287
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_57
+  - first:
+      213: -2428403480172802082
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_58
+  - first:
+      213: 6769390403340219255
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_59
+  - first:
+      213: 5482527064672614621
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_60
+  - first:
+      213: 2773565890874300242
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_61
+  - first:
+      213: 1097331924314177688
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_62
+  - first:
+      213: 3360488546081032194
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_63
+  - first:
+      213: -7974343811679437704
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_64
+  - first:
+      213: -7643816598615980623
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_65
+  - first:
+      213: -5565112558427175611
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_66
+  - first:
+      213: 628073314252362226
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_67
+  - first:
+      213: 2132860055256039904
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_68
+  - first:
+      213: -7245293643139322154
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_69
+  - first:
+      213: 2044071240065026410
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_70
+  - first:
+      213: 2761366184449541535
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_71
+  - first:
+      213: -1714620039845708936
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_72
+  - first:
+      213: 663486389166480488
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_73
+  - first:
+      213: -9154681493199673520
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_74
+  - first:
+      213: -5661828843046299185
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_75
+  - first:
+      213: -8606020815285642013
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_76
+  - first:
+      213: -1631467591231752502
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_77
+  - first:
+      213: 4864415883869395787
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_78
+  - first:
+      213: -5062335325271386245
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_79
+  - first:
+      213: 744212989913136632
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_80
+  - first:
+      213: -2062849119734184014
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_81
+  - first:
+      213: 1437101429777026494
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_82
+  - first:
+      213: -2020665670828692790
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_83
+  - first:
+      213: 8490609668268937126
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_84
+  - first:
+      213: 3638518331157458406
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_85
+  - first:
+      213: -7810121551190742309
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_86
+  - first:
+      213: -7536431647774242187
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_87
+  - first:
+      213: -3032276363307276441
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_88
+  - first:
+      213: -8572969809630885067
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_89
+  - first:
+      213: -4479258730966053093
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_90
+  - first:
+      213: 991976146571530723
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_91
+  - first:
+      213: -5757032483369378767
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_92
+  - first:
+      213: -1195760439707313708
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_93
+  - first:
+      213: -267524392787349925
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_94
+  - first:
+      213: 5658535651239488614
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_95
+  - first:
+      213: 4681669728776313387
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_96
+  - first:
+      213: -2227837524648196298
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_97
+  - first:
+      213: -1997970586949787940
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_98
+  - first:
+      213: -1461169067775327943
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_99
+  - first:
+      213: -6159208741884757744
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_100
+  - first:
+      213: 896369271176280347
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_101
+  - first:
+      213: 5706232746875207702
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_102
+  - first:
+      213: 7502170375442545490
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_103
+  - first:
+      213: 3371021079074256204
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_104
+  - first:
+      213: 5600332238566991322
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_105
+  - first:
+      213: -8492963752470485505
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_106
+  - first:
+      213: -274056227554891372
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_107
+  - first:
+      213: -7061707585542392045
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_108
+  - first:
+      213: 1693532246706007549
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_109
+  - first:
+      213: -882598078136483458
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_110
+  - first:
+      213: -5053974347077794724
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_111
+  - first:
+      213: -5974578818787544929
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_112
+  - first:
+      213: 7572712479522462037
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_113
+  - first:
+      213: -403248868524458958
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_114
+  - first:
+      213: 1744502015028044388
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_115
+  - first:
+      213: -8741158424891847857
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_116
+  - first:
+      213: -1850222237194854946
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_117
+  - first:
+      213: 6491712852856614410
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_118
+  - first:
+      213: 4516379048539666973
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_119
+  - first:
+      213: -2709170670014238556
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_120
+  - first:
+      213: 558804615548016678
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_121
+  - first:
+      213: -8333221213708154170
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_122
+  - first:
+      213: -1643821408300568855
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_123
+  - first:
+      213: -1365839744308753585
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_124
+  - first:
+      213: -5832152872199497153
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_125
+  - first:
+      213: 8668676610027026872
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_126
+  - first:
+      213: 6612116324388077237
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_127
+  - first:
+      213: 4788463396449855377
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_128
+  - first:
+      213: -1961600662319114406
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_129
+  - first:
+      213: -1493853471327738337
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_130
+  - first:
+      213: 5470703453438496025
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_131
+  - first:
+      213: -1544149741519785526
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_132
+  - first:
+      213: -3821919483091894738
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_133
+  - first:
+      213: 4045188143292941895
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_134
+  - first:
+      213: -6489210510586172287
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_135
+  - first:
+      213: -6407151282338668561
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_136
+  - first:
+      213: -464146043486075794
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_137
+  - first:
+      213: -8276042918314823322
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_138
+  - first:
+      213: 5123849776469570397
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_139
+  - first:
+      213: -1914818766297230816
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_140
+  - first:
+      213: 9188836408036353799
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_141
+  - first:
+      213: 127425249882477456
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_142
+  - first:
+      213: 7403887864649529061
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_143
+  - first:
+      213: -2863228698832313227
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_144
+  - first:
+      213: 5683061057563053461
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_145
+  - first:
+      213: -8895663909346149207
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_146
+  - first:
+      213: -4845013562096575678
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_147
+  - first:
+      213: -8334270526642099173
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_148
+  - first:
+      213: -1180745255365746153
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_149
+  - first:
+      213: 8218619408402646812
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_150
+  - first:
+      213: -8241745457640125609
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_151
+  - first:
+      213: 2291022790419865231
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_152
+  - first:
+      213: -1638047271108465747
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_153
+  - first:
+      213: 1801917187587993233
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_154
+  - first:
+      213: 3456428297389068171
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_155
+  - first:
+      213: 7288560892568728112
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_156
+  - first:
+      213: 8558196062509436263
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_157
+  - first:
+      213: 9111456076405793859
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_158
+  - first:
+      213: -7852889735597875486
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_159
+  - first:
+      213: -3840697093366460918
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_160
+  - first:
+      213: 3272207727223599823
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_161
+  - first:
+      213: -3703537816465402781
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_162
+  - first:
+      213: -6987205347844713858
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_163
+  - first:
+      213: 343114858083475437
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_164
+  - first:
+      213: -7061256817048308544
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_165
+  - first:
+      213: 3196724569034335198
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_166
+  - first:
+      213: -2226417591920642474
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_167
+  - first:
+      213: 8803628251561775057
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_168
+  - first:
+      213: -3524444772300095504
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_169
+  - first:
+      213: -5196583959980905688
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_170
+  - first:
+      213: 2057296698639301621
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_171
+  - first:
+      213: 8025737635620641091
+    second: Six-Frame Winter Warrior Idle Sprite Sheet_172
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Six-Frame Winter Warrior Idle Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 198
+        width: 254
+        height: 528
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509fa74a658d466e0800000000000000
+      internalID: -1845112080676751099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Six-Frame Winter Warrior Idle Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 198
+        width: 254
+        height: 528
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e7023c0f255a550800000000000000
+      internalID: 6171430058400448068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Six-Frame Winter Warrior Idle Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 198
+        width: 254
+        height: 528
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db832f65af423ef50800000000000000
+      internalID: 6909406910935611581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Six-Frame Winter Warrior Idle Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 198
+        width: 254
+        height: 528
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8a72d2a22e352c0800000000000000
+      internalID: -4443959736510469912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Six-Frame Winter Warrior Idle Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 198
+        width: 254
+        height: 528
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c8f3c1db8700220800000000000000
+      internalID: 2450090950907628656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Six-Frame Winter Warrior Idle Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 198
+        width: 254
+        height: 528
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11a64c8e91e328e0800000000000000
+      internalID: -1719282561650876131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0d78ff1323d49284c8dedfb61d16b591
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":254.0,"y":528.0},"gridSpriteOffset":{"x":9.0,"y":298.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Six-Frame Winter Warrior Idle Sprite Sheet_0: -1845112080676751099
+      Six-Frame Winter Warrior Idle Sprite Sheet_1: 6171430058400448068
+      Six-Frame Winter Warrior Idle Sprite Sheet_2: 6909406910935611581
+      Six-Frame Winter Warrior Idle Sprite Sheet_3: -4443959736510469912
+      Six-Frame Winter Warrior Idle Sprite Sheet_4: 2450090950907628656
+      Six-Frame Winter Warrior Idle Sprite Sheet_5: -1719282561650876131
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

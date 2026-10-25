@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 5b78c2847d276604bb6454db86ace15c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7668612967468885478
+    second: Pixel Art Dungeon Doorway_0
+  - first:
+      213: 5260528210379703417
+    second: Pixel Art Dungeon Doorway_1
+  - first:
+      213: -7178346543780659236
+    second: Pixel Art Dungeon Doorway_2
+  - first:
+      213: 4039564782214238379
+    second: Pixel Art Dungeon Doorway_3
+  - first:
+      213: -6886395133804630062
+    second: Pixel Art Dungeon Doorway_4
+  - first:
+      213: 7554898212719746878
+    second: Pixel Art Dungeon Doorway_5
+  - first:
+      213: -4548620457988420423
+    second: Pixel Art Dungeon Doorway_6
+  - first:
+      213: -1196159705835511940
+    second: Pixel Art Dungeon Doorway_7
+  - first:
+      213: -3341606528467614678
+    second: Pixel Art Dungeon Doorway_8
+  - first:
+      213: 4613427255691085304
+    second: Pixel Art Dungeon Doorway_9
+  - first:
+      213: -5767086591886338856
+    second: Pixel Art Dungeon Doorway_10
+  - first:
+      213: 8025257181922740157
+    second: Pixel Art Dungeon Doorway_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pixel Art Dungeon Doorway_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 1273
+        height: 1196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5efe52dd26c6a60800000000000000
+      internalID: 7668612967468885478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dungeon Doorway_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 777
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9748a9e2986210940800000000000000
+      internalID: 5260528210379703417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dungeon Doorway_2
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 687
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdffc47d9d3616c90800000000000000
+      internalID: -7178346543780659236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dungeon Doorway_3
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 665
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0de0354ca6f0830800000000000000
+      internalID: 4039564782214238379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dungeon Doorway_4
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 635
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfa89a8c1c9e60a0800000000000000
+      internalID: -6886395133804630062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dungeon Doorway_5
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 650
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fd46b95e368d860800000000000000
+      internalID: 7554898212719746878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dungeon Doorway_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 606
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc86870bcd00e0c0800000000000000
+      internalID: -4548620457988420423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dungeon Doorway_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 435
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fd907c513666fe0800000000000000
+      internalID: -1196159705835511940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dungeon Doorway_8
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 440
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24cf83219a30a1d0800000000000000
+      internalID: -3341606528467614678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dungeon Doorway_9
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 423
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5829465af260040800000000000000
+      internalID: 4613427255691085304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dungeon Doorway_10
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 419
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d452bdcc4137ffa0800000000000000
+      internalID: -5767086591886338856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dungeon Doorway_11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 385
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db748a723e07f5f60800000000000000
+      internalID: 8025257181922740157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pixel Art Dungeon Doorway_0: 7668612967468885478
+      Pixel Art Dungeon Doorway_1: 5260528210379703417
+      Pixel Art Dungeon Doorway_10: -5767086591886338856
+      Pixel Art Dungeon Doorway_11: 8025257181922740157
+      Pixel Art Dungeon Doorway_2: -7178346543780659236
+      Pixel Art Dungeon Doorway_3: 4039564782214238379
+      Pixel Art Dungeon Doorway_4: -6886395133804630062
+      Pixel Art Dungeon Doorway_5: 7554898212719746878
+      Pixel Art Dungeon Doorway_6: -4548620457988420423
+      Pixel Art Dungeon Doorway_7: -1196159705835511940
+      Pixel Art Dungeon Doorway_8: -3341606528467614678
+      Pixel Art Dungeon Doorway_9: 4613427255691085304
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

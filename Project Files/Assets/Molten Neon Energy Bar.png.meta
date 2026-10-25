@@ -1,0 +1,2912 @@
+fileFormatVersion: 2
+guid: 4b5bb6393c8102f4d91498359511f51d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8851776878726380902
+    second: Molten Neon Energy Bar_0
+  - first:
+      213: -1641516316911838273
+    second: Molten Neon Energy Bar_1
+  - first:
+      213: 1754177790942827465
+    second: Molten Neon Energy Bar_2
+  - first:
+      213: 1507867203647418501
+    second: Molten Neon Energy Bar_3
+  - first:
+      213: 4630375251415277554
+    second: Molten Neon Energy Bar_4
+  - first:
+      213: -1996769686085919440
+    second: Molten Neon Energy Bar_5
+  - first:
+      213: -7780201543439165112
+    second: Molten Neon Energy Bar_6
+  - first:
+      213: -3281962024541794249
+    second: Molten Neon Energy Bar_7
+  - first:
+      213: 922869323998088700
+    second: Molten Neon Energy Bar_8
+  - first:
+      213: 5454533861923525567
+    second: Molten Neon Energy Bar_9
+  - first:
+      213: -2755694503956472829
+    second: Molten Neon Energy Bar_10
+  - first:
+      213: -483572092267663207
+    second: Molten Neon Energy Bar_11
+  - first:
+      213: 695943941729804762
+    second: Molten Neon Energy Bar_12
+  - first:
+      213: 7164223019949797145
+    second: Molten Neon Energy Bar_13
+  - first:
+      213: 2643721864798040046
+    second: Molten Neon Energy Bar_14
+  - first:
+      213: -1193942008621694040
+    second: Molten Neon Energy Bar_15
+  - first:
+      213: 4099724725063035107
+    second: Molten Neon Energy Bar_16
+  - first:
+      213: -3333297451305692072
+    second: Molten Neon Energy Bar_17
+  - first:
+      213: 3698560950645972410
+    second: Molten Neon Energy Bar_18
+  - first:
+      213: 220067355117985498
+    second: Molten Neon Energy Bar_19
+  - first:
+      213: -8797181669698914836
+    second: Molten Neon Energy Bar_20
+  - first:
+      213: -4426665646276504639
+    second: Molten Neon Energy Bar_21
+  - first:
+      213: 3647805579436613796
+    second: Molten Neon Energy Bar_22
+  - first:
+      213: 6198263380863722301
+    second: Molten Neon Energy Bar_23
+  - first:
+      213: 1110080943998376556
+    second: Molten Neon Energy Bar_24
+  - first:
+      213: -8154389883842579000
+    second: Molten Neon Energy Bar_25
+  - first:
+      213: -8513517880438341659
+    second: Molten Neon Energy Bar_26
+  - first:
+      213: -2496934332977897568
+    second: Molten Neon Energy Bar_27
+  - first:
+      213: 3863500885045564881
+    second: Molten Neon Energy Bar_28
+  - first:
+      213: 8891223817634354112
+    second: Molten Neon Energy Bar_29
+  - first:
+      213: -5984894176555974271
+    second: Molten Neon Energy Bar_30
+  - first:
+      213: -6255148684029845656
+    second: Molten Neon Energy Bar_31
+  - first:
+      213: 5439548542738933382
+    second: Molten Neon Energy Bar_32
+  - first:
+      213: -2925038003727840032
+    second: Molten Neon Energy Bar_33
+  - first:
+      213: 8721646455233050466
+    second: Molten Neon Energy Bar_34
+  - first:
+      213: 852707922872258065
+    second: Molten Neon Energy Bar_35
+  - first:
+      213: 7697909695193050583
+    second: Molten Neon Energy Bar_36
+  - first:
+      213: 8953232075017684630
+    second: Molten Neon Energy Bar_37
+  - first:
+      213: 4020025710176312134
+    second: Molten Neon Energy Bar_38
+  - first:
+      213: -989797685890122950
+    second: Molten Neon Energy Bar_39
+  - first:
+      213: -8085598977094010707
+    second: Molten Neon Energy Bar_40
+  - first:
+      213: 7916742742262973131
+    second: Molten Neon Energy Bar_41
+  - first:
+      213: -890611858303717867
+    second: Molten Neon Energy Bar_42
+  - first:
+      213: 6006761642289211350
+    second: Molten Neon Energy Bar_43
+  - first:
+      213: 4633955877171804770
+    second: Molten Neon Energy Bar_44
+  - first:
+      213: 5130221029971213570
+    second: Molten Neon Energy Bar_45
+  - first:
+      213: -2343187617134288740
+    second: Molten Neon Energy Bar_46
+  - first:
+      213: -5938439183938276396
+    second: Molten Neon Energy Bar_47
+  - first:
+      213: -7275588850954442058
+    second: Molten Neon Energy Bar_48
+  - first:
+      213: 2972372937879938873
+    second: Molten Neon Energy Bar_49
+  - first:
+      213: -7474680345340701155
+    second: Molten Neon Energy Bar_50
+  - first:
+      213: 5080819632560375245
+    second: Molten Neon Energy Bar_51
+  - first:
+      213: 6589086396745995483
+    second: Molten Neon Energy Bar_52
+  - first:
+      213: -6512804001354399832
+    second: Molten Neon Energy Bar_53
+  - first:
+      213: 6714364528881718814
+    second: Molten Neon Energy Bar_54
+  - first:
+      213: -4975220055848367887
+    second: Molten Neon Energy Bar_55
+  - first:
+      213: -3232762640626487266
+    second: Molten Neon Energy Bar_56
+  - first:
+      213: -5734589403910650302
+    second: Molten Neon Energy Bar_57
+  - first:
+      213: 1544034191682154394
+    second: Molten Neon Energy Bar_58
+  - first:
+      213: 8873992315114928149
+    second: Molten Neon Energy Bar_59
+  - first:
+      213: -243878320402515011
+    second: Molten Neon Energy Bar_60
+  - first:
+      213: -8656470744277730384
+    second: Molten Neon Energy Bar_61
+  - first:
+      213: -8699312209164465660
+    second: Molten Neon Energy Bar_62
+  - first:
+      213: 7866076279069857076
+    second: Molten Neon Energy Bar_63
+  - first:
+      213: 5891895212484217213
+    second: Molten Neon Energy Bar_64
+  - first:
+      213: -6092675661298484089
+    second: Molten Neon Energy Bar_65
+  - first:
+      213: -2154119632897777998
+    second: Molten Neon Energy Bar_66
+  - first:
+      213: -1585257333054101682
+    second: Molten Neon Energy Bar_67
+  - first:
+      213: -2306628030903789875
+    second: Molten Neon Energy Bar_68
+  - first:
+      213: -8065042280763419861
+    second: Molten Neon Energy Bar_69
+  - first:
+      213: -5152829302359315025
+    second: Molten Neon Energy Bar_70
+  - first:
+      213: -1015004311218460776
+    second: Molten Neon Energy Bar_71
+  - first:
+      213: -2781244240309462204
+    second: Molten Neon Energy Bar_72
+  - first:
+      213: -6285286018767577126
+    second: Molten Neon Energy Bar_73
+  - first:
+      213: 8760855773445951153
+    second: Molten Neon Energy Bar_74
+  - first:
+      213: 5147084217882480199
+    second: Molten Neon Energy Bar_75
+  - first:
+      213: 2560471999735027175
+    second: Molten Neon Energy Bar_76
+  - first:
+      213: 2192685048599311178
+    second: Molten Neon Energy Bar_77
+  - first:
+      213: -7362968484661946181
+    second: Molten Neon Energy Bar_78
+  - first:
+      213: -8548802287116955740
+    second: Molten Neon Energy Bar_79
+  - first:
+      213: 3830542815187794565
+    second: Molten Neon Energy Bar_80
+  - first:
+      213: 6867367089034140962
+    second: Molten Neon Energy Bar_81
+  - first:
+      213: -7695887023458621967
+    second: Molten Neon Energy Bar_82
+  - first:
+      213: -486319751386030929
+    second: Molten Neon Energy Bar_83
+  - first:
+      213: -7617363341579029980
+    second: Molten Neon Energy Bar_84
+  - first:
+      213: -6112455907760331370
+    second: Molten Neon Energy Bar_85
+  - first:
+      213: 9116820549609211266
+    second: Molten Neon Energy Bar_86
+  - first:
+      213: 7555102482114779890
+    second: Molten Neon Energy Bar_87
+  - first:
+      213: -3848317681353062196
+    second: Molten Neon Energy Bar_88
+  - first:
+      213: -2141280670676025211
+    second: Molten Neon Energy Bar_89
+  - first:
+      213: 6148329381628086508
+    second: Molten Neon Energy Bar_90
+  - first:
+      213: -2397834190070892055
+    second: Molten Neon Energy Bar_91
+  - first:
+      213: 7987888455638662467
+    second: Molten Neon Energy Bar_92
+  - first:
+      213: 1772555117436139735
+    second: Molten Neon Energy Bar_93
+  - first:
+      213: 7823624923127559834
+    second: Molten Neon Energy Bar_94
+  - first:
+      213: 1856451472972130983
+    second: Molten Neon Energy Bar_95
+  - first:
+      213: -7769224013950311570
+    second: Molten Neon Energy Bar_96
+  - first:
+      213: -837391803468623315
+    second: Molten Neon Energy Bar_97
+  - first:
+      213: -6234055348575938949
+    second: Molten Neon Energy Bar_98
+  - first:
+      213: -7431992897545036270
+    second: Molten Neon Energy Bar_99
+  - first:
+      213: -6863006445658358058
+    second: Molten Neon Energy Bar_100
+  - first:
+      213: 414173046087150803
+    second: Molten Neon Energy Bar_101
+  - first:
+      213: 3600394200573927837
+    second: Molten Neon Energy Bar_102
+  - first:
+      213: -8192621504573920932
+    second: Molten Neon Energy Bar_103
+  - first:
+      213: -9129811039859862776
+    second: Molten Neon Energy Bar_104
+  - first:
+      213: -887209561643793726
+    second: Molten Neon Energy Bar_105
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_0
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 488
+        width: 164
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d70872c24d7da70800000000000000
+      internalID: 8851776878726380902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_1
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 642
+        width: 326
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb567d5b992839e0800000000000000
+      internalID: -1641516316911838273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_2
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 683
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3d6062867185810800000000000000
+      internalID: 1754177790942827465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_3
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 514
+        width: 167
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580bdd19b350de410800000000000000
+      internalID: 1507867203647418501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_4
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 618
+        width: 142
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff1e5522c5624040800000000000000
+      internalID: 4630375251415277554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_5
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 626
+        width: 150
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d9492cc8c0a44e0800000000000000
+      internalID: -1996769686085919440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_6
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 658
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849dc52eaeb270490800000000000000
+      internalID: -7780201543439165112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_7
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 657
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7305dd06de02472d0800000000000000
+      internalID: -3281962024541794249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_8
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 642
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdc207b2c0becc00800000000000000
+      internalID: 922869323998088700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_9
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 642
+        width: 65
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb39a47e5a562bb40800000000000000
+      internalID: 5454533861923525567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_10
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 651
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c9d2ee27ec1c9d0800000000000000
+      internalID: -2755694503956472829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_11
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 484
+        width: 272
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990f7118eb10a49f0800000000000000
+      internalID: -483572092267663207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_12
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 642
+        width: 46
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1e366e35d78a900800000000000000
+      internalID: 695943941729804762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_13
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 642
+        width: 67
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fa8c301ee6c6360800000000000000
+      internalID: 7164223019949797145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_14
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 649
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef683c670360b420800000000000000
+      internalID: 2643721864798040046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_15
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 653
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a300b5a1144e6fe0800000000000000
+      internalID: -1193942008621694040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_16
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 650
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8a44a8ae525e830800000000000000
+      internalID: 4099724725063035107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_17
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 560
+        width: 47
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854953ce0afbdb1d0800000000000000
+      internalID: -3333297451305692072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_18
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 498
+        width: 208
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd526bb69de35330800000000000000
+      internalID: 3698560950645972410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_19
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 554
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade9770f716dd0300800000000000000
+      internalID: 220067355117985498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_20
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 500
+        width: 76
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5b40181e12ae580800000000000000
+      internalID: -8797181669698914836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_21
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 573
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c393465c035192c0800000000000000
+      internalID: -4426665646276504639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_22
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 484
+        width: 79
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0e10cf8db9f9230800000000000000
+      internalID: 3647805579436613796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_23
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 496
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33a1b084b7a40650800000000000000
+      internalID: 6198263380863722301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_24
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 500
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a14f2bcbcc76f00800000000000000
+      internalID: 1110080943998376556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_25
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 488
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5368dba99c5de80800000000000000
+      internalID: -8154389883842579000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_26
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 501
+        width: 43
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef39832898e9d980800000000000000
+      internalID: -8513517880438341659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_27
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 530
+        width: 86
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af1067147b195dd0800000000000000
+      internalID: -2496934332977897568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_28
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 548
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d55c82d599ed9530800000000000000
+      internalID: 3863500885045564881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_29
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 562
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3969454f8f36b70800000000000000
+      internalID: 8891223817634354112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_30
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 506
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181c31ca47261fca0800000000000000
+      internalID: -5984894176555974271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_31
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 542
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f162fb96f3139a0800000000000000
+      internalID: -6255148684029845656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_32
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 538
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686a27464982d7b40800000000000000
+      internalID: 5439548542738933382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_33
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 546
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecc841ee6d2867d0800000000000000
+      internalID: -2925038003727840032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_34
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 538
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267f5b4ed33890970800000000000000
+      internalID: 8721646455233050466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_35
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 532
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e46f7865d65db00800000000000000
+      internalID: 852707922872258065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_36
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 538
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd640f151874da60800000000000000
+      internalID: 7697909695193050583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_37
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 530
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696001fc225404c70800000000000000
+      internalID: 8953232075017684630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_38
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 520
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b1ffa95100ac730800000000000000
+      internalID: 4020025710176312134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_39
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 498
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bf305bf388342f0800000000000000
+      internalID: -989797685890122950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_40
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 514
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8bc06d19e2acf80800000000000000
+      internalID: -8085598977094010707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_41
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 516
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc28cb2549beddd60800000000000000
+      internalID: 7916742742262973131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_42
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 522
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e6e09cb39e3a3f0800000000000000
+      internalID: -890611858303717867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_43
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 482
+        width: 96
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7271373ed4c5350800000000000000
+      internalID: 6006761642289211350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_44
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 532
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ab8ab815e1f4040800000000000000
+      internalID: 4633955877171804770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_45
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 522
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d3cae78d4323740800000000000000
+      internalID: 5130221029971213570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_46
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 528
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90ed96e6435b7fd0800000000000000
+      internalID: -2343187617134288740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_47
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 530
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d33911860d669da0800000000000000
+      internalID: -5938439183938276396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_48
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 532
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba611fdc7ae70b90800000000000000
+      internalID: -7275588850954442058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_49
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 514
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937615e407dff3920800000000000000
+      internalID: 2972372937879938873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_50
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 498
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d169f5614d9944890800000000000000
+      internalID: -7474680345340701155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_51
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 500
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc587965982b28640800000000000000
+      internalID: 5080819632560375245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_52
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 498
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd45768da23217b50800000000000000
+      internalID: 6589086396745995483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_53
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 498
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af378f544fdd95a0800000000000000
+      internalID: -6512804001354399832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_54
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 498
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e165a7cf6f63e2d50800000000000000
+      internalID: 6714364528881718814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_55
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 32
+        width: 2107
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f842c318b774fab0800000000000000
+      internalID: -4975220055848367887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_56
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 88
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10fd4a918be223d0800000000000000
+      internalID: -3232762640626487266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_57
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 87
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246cf2ff155aa60b0800000000000000
+      internalID: -5734589403910650302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_58
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 80
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fa54caae28d6510800000000000000
+      internalID: 1544034191682154394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_59
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 63
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518b8f18ef0c62b70800000000000000
+      internalID: 8873992315114928149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_60
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 62
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb3dffa5f19d9cf0800000000000000
+      internalID: -243878320402515011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_61
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 49
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbb3c6d8b90ed780800000000000000
+      internalID: -8656470744277730384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_62
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 98
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a888ef2a5d54780800000000000000
+      internalID: -8699312209164465660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_63
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 53
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435d51613bae92d60800000000000000
+      internalID: 7866076279069857076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_64
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 47
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7942f9aa7734c150800000000000000
+      internalID: 5891895212484217213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_65
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 79
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cb2a434c7727ba0800000000000000
+      internalID: -6092675661298484089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_66
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 47
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bede6d5b970b12e0800000000000000
+      internalID: -2154119632897777998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_67
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 79
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e472ab9cad8000ae0800000000000000
+      internalID: -1585257333054101682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_68
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 73
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc65505e6063dffd0800000000000000
+      internalID: -2306628030903789875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_69
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 46
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23179ca6c6331090800000000000000
+      internalID: -8065042280763419861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_70
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 79
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad26a4ec097d78b0800000000000000
+      internalID: -5152829302359315025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_71
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 67
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8976558e4faf9e1f0800000000000000
+      internalID: -1015004311218460776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_72
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 51
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bd0ce59190769d0800000000000000
+      internalID: -2781244240309462204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_73
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 112
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf11a3baad26c8a0800000000000000
+      internalID: -6285286018767577126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_74
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 49
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be0da0b8efc49970800000000000000
+      internalID: 8760855773445951153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_75
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 71
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e87e363dd1e6740800000000000000
+      internalID: 5147084217882480199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_76
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 75
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e55a81c7bf988320800000000000000
+      internalID: 2560471999735027175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_77
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 110
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4372123f6bfd6e10800000000000000
+      internalID: 2192685048599311178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_78
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 91
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb814538c2b71d990800000000000000
+      internalID: -7362968484661946181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_79
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 49
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afc8550d9d8c5980800000000000000
+      internalID: -8548802287116955740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_80
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 79
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a71343562d82530800000000000000
+      internalID: 3830542815187794565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_81
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 46
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d961c8bf9cd4f50800000000000000
+      internalID: 6867367089034140962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_82
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 110
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5e537d687b23590800000000000000
+      internalID: -7695887023458621967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_83
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 95
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac116343ce3049f0800000000000000
+      internalID: -486319751386030929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_84
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 99
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422791c3660b94690800000000000000
+      internalID: -7617363341579029980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_85
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 144
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69525b0bcb13c2ba0800000000000000
+      internalID: -6112455907760331370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_86
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 120
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2854074acf3758e70800000000000000
+      internalID: 9116820549609211266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_87
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 114
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa9f18cdad19d860800000000000000
+      internalID: 7555102482114779890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_88
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 95
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc888144577089ac0800000000000000
+      internalID: -3848317681353062196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_89
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 95
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58002f33394a842e0800000000000000
+      internalID: -2141280670676025211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_90
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 95
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce80a025ff0435550800000000000000
+      internalID: 6148329381628086508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_91
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 47
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9b986228e29bed0800000000000000
+      internalID: -2397834190070892055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_92
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 112
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d39cf8a3eaade60800000000000000
+      internalID: 7987888455638662467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_93
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 54
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8f497ec71699810800000000000000
+      internalID: 1772555117436139735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_94
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 23
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9639ee8a69139c60800000000000000
+      internalID: 7823624923127559834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_95
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 113
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa214d57c073c910800000000000000
+      internalID: 1856451472972130983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_96
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 87
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63ae042ceb2e2490800000000000000
+      internalID: -7769224013950311570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_97
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 63
+        width: 41
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22dd68679cf064f0800000000000000
+      internalID: -837391803468623315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_98
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 79
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76d10e90bf2c79a0800000000000000
+      internalID: -6234055348575938949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_99
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 79
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e1a9806d14cd890800000000000000
+      internalID: -7431992897545036270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_100
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 66
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de315bdff3b1c0a0800000000000000
+      internalID: -6863006445658358058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_101
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 97
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dce097e0307fb500800000000000000
+      internalID: 414173046087150803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_102
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 79
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91e590237b27f130800000000000000
+      internalID: 3600394200573927837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_103
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 98
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5925a0e526fd4e80800000000000000
+      internalID: -8192621504573920932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_104
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 69
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80396b62b356c4180800000000000000
+      internalID: -9129811039859862776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Neon Energy Bar_105
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 63
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c244e4ba9fffa3f0800000000000000
+      internalID: -887209561643793726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Molten Neon Energy Bar_0: 8851776878726380902
+      Molten Neon Energy Bar_1: -1641516316911838273
+      Molten Neon Energy Bar_10: -2755694503956472829
+      Molten Neon Energy Bar_100: -6863006445658358058
+      Molten Neon Energy Bar_101: 414173046087150803
+      Molten Neon Energy Bar_102: 3600394200573927837
+      Molten Neon Energy Bar_103: -8192621504573920932
+      Molten Neon Energy Bar_104: -9129811039859862776
+      Molten Neon Energy Bar_105: -887209561643793726
+      Molten Neon Energy Bar_11: -483572092267663207
+      Molten Neon Energy Bar_12: 695943941729804762
+      Molten Neon Energy Bar_13: 7164223019949797145
+      Molten Neon Energy Bar_14: 2643721864798040046
+      Molten Neon Energy Bar_15: -1193942008621694040
+      Molten Neon Energy Bar_16: 4099724725063035107
+      Molten Neon Energy Bar_17: -3333297451305692072
+      Molten Neon Energy Bar_18: 3698560950645972410
+      Molten Neon Energy Bar_19: 220067355117985498
+      Molten Neon Energy Bar_2: 1754177790942827465
+      Molten Neon Energy Bar_20: -8797181669698914836
+      Molten Neon Energy Bar_21: -4426665646276504639
+      Molten Neon Energy Bar_22: 3647805579436613796
+      Molten Neon Energy Bar_23: 6198263380863722301
+      Molten Neon Energy Bar_24: 1110080943998376556
+      Molten Neon Energy Bar_25: -8154389883842579000
+      Molten Neon Energy Bar_26: -8513517880438341659
+      Molten Neon Energy Bar_27: -2496934332977897568
+      Molten Neon Energy Bar_28: 3863500885045564881
+      Molten Neon Energy Bar_29: 8891223817634354112
+      Molten Neon Energy Bar_3: 1507867203647418501
+      Molten Neon Energy Bar_30: -5984894176555974271
+      Molten Neon Energy Bar_31: -6255148684029845656
+      Molten Neon Energy Bar_32: 5439548542738933382
+      Molten Neon Energy Bar_33: -2925038003727840032
+      Molten Neon Energy Bar_34: 8721646455233050466
+      Molten Neon Energy Bar_35: 852707922872258065
+      Molten Neon Energy Bar_36: 7697909695193050583
+      Molten Neon Energy Bar_37: 8953232075017684630
+      Molten Neon Energy Bar_38: 4020025710176312134
+      Molten Neon Energy Bar_39: -989797685890122950
+      Molten Neon Energy Bar_4: 4630375251415277554
+      Molten Neon Energy Bar_40: -8085598977094010707
+      Molten Neon Energy Bar_41: 7916742742262973131
+      Molten Neon Energy Bar_42: -890611858303717867
+      Molten Neon Energy Bar_43: 6006761642289211350
+      Molten Neon Energy Bar_44: 4633955877171804770
+      Molten Neon Energy Bar_45: 5130221029971213570
+      Molten Neon Energy Bar_46: -2343187617134288740
+      Molten Neon Energy Bar_47: -5938439183938276396
+      Molten Neon Energy Bar_48: -7275588850954442058
+      Molten Neon Energy Bar_49: 2972372937879938873
+      Molten Neon Energy Bar_5: -1996769686085919440
+      Molten Neon Energy Bar_50: -7474680345340701155
+      Molten Neon Energy Bar_51: 5080819632560375245
+      Molten Neon Energy Bar_52: 6589086396745995483
+      Molten Neon Energy Bar_53: -6512804001354399832
+      Molten Neon Energy Bar_54: 6714364528881718814
+      Molten Neon Energy Bar_55: -4975220055848367887
+      Molten Neon Energy Bar_56: -3232762640626487266
+      Molten Neon Energy Bar_57: -5734589403910650302
+      Molten Neon Energy Bar_58: 1544034191682154394
+      Molten Neon Energy Bar_59: 8873992315114928149
+      Molten Neon Energy Bar_6: -7780201543439165112
+      Molten Neon Energy Bar_60: -243878320402515011
+      Molten Neon Energy Bar_61: -8656470744277730384
+      Molten Neon Energy Bar_62: -8699312209164465660
+      Molten Neon Energy Bar_63: 7866076279069857076
+      Molten Neon Energy Bar_64: 5891895212484217213
+      Molten Neon Energy Bar_65: -6092675661298484089
+      Molten Neon Energy Bar_66: -2154119632897777998
+      Molten Neon Energy Bar_67: -1585257333054101682
+      Molten Neon Energy Bar_68: -2306628030903789875
+      Molten Neon Energy Bar_69: -8065042280763419861
+      Molten Neon Energy Bar_7: -3281962024541794249
+      Molten Neon Energy Bar_70: -5152829302359315025
+      Molten Neon Energy Bar_71: -1015004311218460776
+      Molten Neon Energy Bar_72: -2781244240309462204
+      Molten Neon Energy Bar_73: -6285286018767577126
+      Molten Neon Energy Bar_74: 8760855773445951153
+      Molten Neon Energy Bar_75: 5147084217882480199
+      Molten Neon Energy Bar_76: 2560471999735027175
+      Molten Neon Energy Bar_77: 2192685048599311178
+      Molten Neon Energy Bar_78: -7362968484661946181
+      Molten Neon Energy Bar_79: -8548802287116955740
+      Molten Neon Energy Bar_8: 922869323998088700
+      Molten Neon Energy Bar_80: 3830542815187794565
+      Molten Neon Energy Bar_81: 6867367089034140962
+      Molten Neon Energy Bar_82: -7695887023458621967
+      Molten Neon Energy Bar_83: -486319751386030929
+      Molten Neon Energy Bar_84: -7617363341579029980
+      Molten Neon Energy Bar_85: -6112455907760331370
+      Molten Neon Energy Bar_86: 9116820549609211266
+      Molten Neon Energy Bar_87: 7555102482114779890
+      Molten Neon Energy Bar_88: -3848317681353062196
+      Molten Neon Energy Bar_89: -2141280670676025211
+      Molten Neon Energy Bar_9: 5454533861923525567
+      Molten Neon Energy Bar_90: 6148329381628086508
+      Molten Neon Energy Bar_91: -2397834190070892055
+      Molten Neon Energy Bar_92: 7987888455638662467
+      Molten Neon Energy Bar_93: 1772555117436139735
+      Molten Neon Energy Bar_94: 7823624923127559834
+      Molten Neon Energy Bar_95: 1856451472972130983
+      Molten Neon Energy Bar_96: -7769224013950311570
+      Molten Neon Energy Bar_97: -837391803468623315
+      Molten Neon Energy Bar_98: -6234055348575938949
+      Molten Neon Energy Bar_99: -7431992897545036270
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

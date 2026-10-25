@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 0d08c7824bd0fa841b0f47370dabcda3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2938278594923942158
+    second: Molten Stone Back Button_0
+  - first:
+      213: -2275642393251462075
+    second: Molten Stone Back Button_1
+  - first:
+      213: -3582564690505697335
+    second: Molten Stone Back Button_2
+  - first:
+      213: -4666131391412645453
+    second: Molten Stone Back Button_3
+  - first:
+      213: -6571188583092446297
+    second: Molten Stone Back Button_4
+  - first:
+      213: -6730895298301978860
+    second: Molten Stone Back Button_5
+  - first:
+      213: -8580185719206729907
+    second: Molten Stone Back Button_6
+  - first:
+      213: 6867041033972381979
+    second: Molten Stone Back Button_7
+  - first:
+      213: -6662847083754693005
+    second: Molten Stone Back Button_8
+  - first:
+      213: 8484622365352699925
+    second: Molten Stone Back Button_9
+  - first:
+      213: 4755582825435149039
+    second: Molten Stone Back Button_10
+  - first:
+      213: -958252475242245891
+    second: Molten Stone Back Button_11
+  - first:
+      213: 6768554324943196663
+    second: Molten Stone Back Button_12
+  - first:
+      213: 4747401221275434748
+    second: Molten Stone Back Button_13
+  - first:
+      213: 4367913884662980521
+    second: Molten Stone Back Button_14
+  - first:
+      213: -6390316173722004095
+    second: Molten Stone Back Button_15
+  - first:
+      213: 2611797578228564792
+    second: Molten Stone Back Button_16
+  - first:
+      213: -2861177658794175128
+    second: Molten Stone Back Button_17
+  - first:
+      213: 147408927905777854
+    second: Molten Stone Back Button_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Molten Stone Back Button_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 1745
+        height: 863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01539d70dcd6c820800000000000000
+      internalID: 2938278594923942158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Stone Back Button_1
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 825
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5444d6adc4b4b60e0800000000000000
+      internalID: -2275642393251462075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Stone Back Button_2
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 829
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7fc8d256c284ec0800000000000000
+      internalID: -3582564690505697335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Stone Back Button_3
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 827
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1dc83c8329e3fb0800000000000000
+      internalID: -4666131391412645453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Stone Back Button_4
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 829
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab1ca0acc27ec4a0800000000000000
+      internalID: -6571188583092446297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Stone Back Button_5
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 805
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4171d54536e0792a0800000000000000
+      internalID: -6730895298301978860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Stone Back Button_6
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 797
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47adc35c8e0de880800000000000000
+      internalID: -8580185719206729907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Stone Back Button_7
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 136
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1974ffef61ac4f50800000000000000
+      internalID: 6867041033972381979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Stone Back Button_8
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 65
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37edd0ce0efc883a0800000000000000
+      internalID: -6662847083754693005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Stone Back Button_9
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 66
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518ae2c761f6fb570800000000000000
+      internalID: 8484622365352699925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Stone Back Button_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 67
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2b20232693ff140800000000000000
+      internalID: 4755582825435149039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Stone Back Button_11
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 66
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df01c08637a93b2f0800000000000000
+      internalID: -958252475242245891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Stone Back Button_12
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 61
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f15c251c4cbeed50800000000000000
+      internalID: 6768554324943196663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Stone Back Button_13
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 73
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfeb068024822e140800000000000000
+      internalID: 4747401221275434748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Stone Back Button_14
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 63
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af55d03982fd9c30800000000000000
+      internalID: 4367913884662980521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Stone Back Button_15
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 51
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185ddde1c490157a0800000000000000
+      internalID: -6390316173722004095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Stone Back Button_16
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 47
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8330a8b3f08fe3420800000000000000
+      internalID: 2611797578228564792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Stone Back Button_17
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 51
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8651a48141e0b48d0800000000000000
+      internalID: -2861177658794175128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molten Stone Back Button_18
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 25
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb88b8093a3bb0200800000000000000
+      internalID: 147408927905777854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Molten Stone Back Button_0: 2938278594923942158
+      Molten Stone Back Button_1: -2275642393251462075
+      Molten Stone Back Button_10: 4755582825435149039
+      Molten Stone Back Button_11: -958252475242245891
+      Molten Stone Back Button_12: 6768554324943196663
+      Molten Stone Back Button_13: 4747401221275434748
+      Molten Stone Back Button_14: 4367913884662980521
+      Molten Stone Back Button_15: -6390316173722004095
+      Molten Stone Back Button_16: 2611797578228564792
+      Molten Stone Back Button_17: -2861177658794175128
+      Molten Stone Back Button_18: 147408927905777854
+      Molten Stone Back Button_2: -3582564690505697335
+      Molten Stone Back Button_3: -4666131391412645453
+      Molten Stone Back Button_4: -6571188583092446297
+      Molten Stone Back Button_5: -6730895298301978860
+      Molten Stone Back Button_6: -8580185719206729907
+      Molten Stone Back Button_7: 6867041033972381979
+      Molten Stone Back Button_8: -6662847083754693005
+      Molten Stone Back Button_9: 8484622365352699925
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

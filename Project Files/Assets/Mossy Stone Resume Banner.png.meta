@@ -1,0 +1,2314 @@
+fileFormatVersion: 2
+guid: cfed3500ef387024485cb57f2f291b5c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6676583511431769163
+    second: Mossy Stone Resume Banner_0
+  - first:
+      213: -6888213100424803047
+    second: Mossy Stone Resume Banner_1
+  - first:
+      213: 3339031073802521629
+    second: Mossy Stone Resume Banner_2
+  - first:
+      213: 7730714460747912824
+    second: Mossy Stone Resume Banner_3
+  - first:
+      213: 9211573680180977726
+    second: Mossy Stone Resume Banner_4
+  - first:
+      213: -7903900369659320874
+    second: Mossy Stone Resume Banner_5
+  - first:
+      213: -3104017642135933799
+    second: Mossy Stone Resume Banner_6
+  - first:
+      213: -5560703449218043179
+    second: Mossy Stone Resume Banner_7
+  - first:
+      213: 6903110523777456981
+    second: Mossy Stone Resume Banner_8
+  - first:
+      213: -5284170433055628159
+    second: Mossy Stone Resume Banner_9
+  - first:
+      213: 5310043574656378416
+    second: Mossy Stone Resume Banner_10
+  - first:
+      213: 6138158287181563349
+    second: Mossy Stone Resume Banner_11
+  - first:
+      213: -1765056288231846628
+    second: Mossy Stone Resume Banner_12
+  - first:
+      213: -6290872474036858797
+    second: Mossy Stone Resume Banner_13
+  - first:
+      213: -4435168639447670349
+    second: Mossy Stone Resume Banner_14
+  - first:
+      213: 6968668650982630846
+    second: Mossy Stone Resume Banner_15
+  - first:
+      213: -1804660311007932523
+    second: Mossy Stone Resume Banner_16
+  - first:
+      213: 8470572472934194166
+    second: Mossy Stone Resume Banner_17
+  - first:
+      213: 2939782763631224013
+    second: Mossy Stone Resume Banner_18
+  - first:
+      213: -9160352610121869
+    second: Mossy Stone Resume Banner_19
+  - first:
+      213: 7556020620234388590
+    second: Mossy Stone Resume Banner_20
+  - first:
+      213: -8004673250382842187
+    second: Mossy Stone Resume Banner_21
+  - first:
+      213: 1938995927359236038
+    second: Mossy Stone Resume Banner_22
+  - first:
+      213: 5890851445426238911
+    second: Mossy Stone Resume Banner_23
+  - first:
+      213: 4491378442210649349
+    second: Mossy Stone Resume Banner_24
+  - first:
+      213: -3908725685361126156
+    second: Mossy Stone Resume Banner_25
+  - first:
+      213: 8145166505065102148
+    second: Mossy Stone Resume Banner_26
+  - first:
+      213: -814501964414116594
+    second: Mossy Stone Resume Banner_27
+  - first:
+      213: -7157568674780269046
+    second: Mossy Stone Resume Banner_28
+  - first:
+      213: -4271569947265673939
+    second: Mossy Stone Resume Banner_29
+  - first:
+      213: 7264516567023644359
+    second: Mossy Stone Resume Banner_30
+  - first:
+      213: 5656160224250238782
+    second: Mossy Stone Resume Banner_31
+  - first:
+      213: 1191464583812299807
+    second: Mossy Stone Resume Banner_32
+  - first:
+      213: 2444917022842658200
+    second: Mossy Stone Resume Banner_33
+  - first:
+      213: 1226275673134597059
+    second: Mossy Stone Resume Banner_34
+  - first:
+      213: -2266656619333375698
+    second: Mossy Stone Resume Banner_35
+  - first:
+      213: 9145795224635770417
+    second: Mossy Stone Resume Banner_36
+  - first:
+      213: 7148817897766918112
+    second: Mossy Stone Resume Banner_37
+  - first:
+      213: 5118341990960305327
+    second: Mossy Stone Resume Banner_38
+  - first:
+      213: 7582343502109602996
+    second: Mossy Stone Resume Banner_39
+  - first:
+      213: 8655157697576473279
+    second: Mossy Stone Resume Banner_40
+  - first:
+      213: 4954683761072538801
+    second: Mossy Stone Resume Banner_41
+  - first:
+      213: 1236610717552329758
+    second: Mossy Stone Resume Banner_42
+  - first:
+      213: 1386975692528346932
+    second: Mossy Stone Resume Banner_43
+  - first:
+      213: 6221075979596796611
+    second: Mossy Stone Resume Banner_44
+  - first:
+      213: 4377819493178826344
+    second: Mossy Stone Resume Banner_45
+  - first:
+      213: 4624326177638564906
+    second: Mossy Stone Resume Banner_46
+  - first:
+      213: -4543611377291840636
+    second: Mossy Stone Resume Banner_47
+  - first:
+      213: 8086690567497060635
+    second: Mossy Stone Resume Banner_48
+  - first:
+      213: -1559234968530172979
+    second: Mossy Stone Resume Banner_49
+  - first:
+      213: 3334168760051554747
+    second: Mossy Stone Resume Banner_50
+  - first:
+      213: 7265887893336193802
+    second: Mossy Stone Resume Banner_51
+  - first:
+      213: 389769994467663481
+    second: Mossy Stone Resume Banner_52
+  - first:
+      213: -727258247475288142
+    second: Mossy Stone Resume Banner_53
+  - first:
+      213: -5940498002091960159
+    second: Mossy Stone Resume Banner_54
+  - first:
+      213: -7955832627960109457
+    second: Mossy Stone Resume Banner_55
+  - first:
+      213: 1246529600084317090
+    second: Mossy Stone Resume Banner_56
+  - first:
+      213: 410167196571219008
+    second: Mossy Stone Resume Banner_57
+  - first:
+      213: -6928238613640002617
+    second: Mossy Stone Resume Banner_58
+  - first:
+      213: -5510003333236617001
+    second: Mossy Stone Resume Banner_59
+  - first:
+      213: 9026154312984653903
+    second: Mossy Stone Resume Banner_60
+  - first:
+      213: -6531439440735608196
+    second: Mossy Stone Resume Banner_61
+  - first:
+      213: 1310529186351426424
+    second: Mossy Stone Resume Banner_62
+  - first:
+      213: -4394645501095824907
+    second: Mossy Stone Resume Banner_63
+  - first:
+      213: 7900240665800658816
+    second: Mossy Stone Resume Banner_64
+  - first:
+      213: 6838792287433576514
+    second: Mossy Stone Resume Banner_65
+  - first:
+      213: 7147196216388874972
+    second: Mossy Stone Resume Banner_66
+  - first:
+      213: 1329366419069360891
+    second: Mossy Stone Resume Banner_67
+  - first:
+      213: 6176203280630043370
+    second: Mossy Stone Resume Banner_68
+  - first:
+      213: 1053511369920101179
+    second: Mossy Stone Resume Banner_69
+  - first:
+      213: -1810985830313974573
+    second: Mossy Stone Resume Banner_70
+  - first:
+      213: 707263353562620579
+    second: Mossy Stone Resume Banner_71
+  - first:
+      213: -8516745949477924002
+    second: Mossy Stone Resume Banner_72
+  - first:
+      213: 3455470663804208828
+    second: Mossy Stone Resume Banner_73
+  - first:
+      213: 4414062855556518669
+    second: Mossy Stone Resume Banner_74
+  - first:
+      213: 6892351818052434648
+    second: Mossy Stone Resume Banner_75
+  - first:
+      213: -2812140704914264625
+    second: Mossy Stone Resume Banner_76
+  - first:
+      213: -2887916506763282158
+    second: Mossy Stone Resume Banner_77
+  - first:
+      213: -4590320631073525590
+    second: Mossy Stone Resume Banner_78
+  - first:
+      213: 2735089174551249093
+    second: Mossy Stone Resume Banner_79
+  - first:
+      213: 4249936707899535968
+    second: Mossy Stone Resume Banner_80
+  - first:
+      213: 3511029022957273414
+    second: Mossy Stone Resume Banner_81
+  - first:
+      213: -7246805215244150272
+    second: Mossy Stone Resume Banner_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_0
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 707
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cee10645df7ac50800000000000000
+      internalID: 6676583511431769163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_1
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 626
+        width: 81
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91dccf33ea62860a0800000000000000
+      internalID: -6888213100424803047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_2
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 691
+        width: 78
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c8df7121f965e20800000000000000
+      internalID: 3339031073802521629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_3
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 707
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876dadcc7d3094b60800000000000000
+      internalID: 7730714460747912824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2159
+        height: 706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e306685057516df70800000000000000
+      internalID: 9211573680180977726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_5
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 693
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5a06e8d74bf4290800000000000000
+      internalID: -7903900369659320874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_6
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 628
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c21f776605ce4d0800000000000000
+      internalID: -3104017642135933799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_7
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 683
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2b110cca964d2b0800000000000000
+      internalID: -5560703449218043179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_8
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 644
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b14077276cccf50800000000000000
+      internalID: 6903110523777456981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_9
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 658
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184e815ecfadaa6b0800000000000000
+      internalID: -5284170433055628159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_10
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 673
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0362d315f7011b940800000000000000
+      internalID: 5310043574656378416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_11
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 675
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5c39ad07e1f2550800000000000000
+      internalID: 6138158287181563349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_12
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 669
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d0f5358a24187e0800000000000000
+      internalID: -1765056288231846628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_13
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 677
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35010c9b0d452b8a0800000000000000
+      internalID: -6290872474036858797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_14
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 675
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1e4c6fe9d1372c0800000000000000
+      internalID: -4435168639447670349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_15
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 651
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5683b673fa5b060800000000000000
+      internalID: 6968668650982630846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_16
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 648
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f4026320f84f6e0800000000000000
+      internalID: -1804660311007932523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_17
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 649
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbd17df8c48d8570800000000000000
+      internalID: 8470572472934194166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_18
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 640
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc42e0f09d43cc820800000000000000
+      internalID: 2939782763631224013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_19
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 638
+        width: 84
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37708a435b47fdff0800000000000000
+      internalID: -9160352610121869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_20
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 628
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64f89878b06cd860800000000000000
+      internalID: 7556020620234388590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_21
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 641
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6fbdfd610b9e090800000000000000
+      internalID: -8004673250382842187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_22
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 621
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c72d2fc582b8ea10800000000000000
+      internalID: 1938995927359236038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_23
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 659
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb53a35bd2280c150800000000000000
+      internalID: 5890851445426238911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_24
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 646
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50520d795e4945e30800000000000000
+      internalID: 4491378442210649349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_25
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 623
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4da9fc2ba61c9c0800000000000000
+      internalID: -3908725685361126156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_26
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 651
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bb0da08c1790170800000000000000
+      internalID: 8145166505065102148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_27
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 640
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d1d3e57ce42b4f0800000000000000
+      internalID: -814501964414116594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_28
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 644
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06324476353bac90800000000000000
+      internalID: -7157568674780269046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_29
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 642
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25def3c3c558b4c0800000000000000
+      internalID: -4271569947265673939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_30
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 634
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce6262245fb0d460800000000000000
+      internalID: 7264516567023644359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_31
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 642
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37112f91c7be7e40800000000000000
+      internalID: 5656160224250238782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_32
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 643
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c3790f9bee88010800000000000000
+      internalID: 1191464583812299807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_33
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 649
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d97db14171ee120800000000000000
+      internalID: 2444917022842658200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_34
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 617
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c304e54a3b940110800000000000000
+      internalID: 1226275673134597059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_35
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 634
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29a8d060d73b80e0800000000000000
+      internalID: -2266656619333375698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_36
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 642
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13601e0ec446cee70800000000000000
+      internalID: 9145795224635770417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_37
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 628
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e71a508004b53360800000000000000
+      internalID: 7148817897766918112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_38
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 634
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa497223ce0080740800000000000000
+      internalID: 5118341990960305327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_39
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 629
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4fb300e35e93960800000000000000
+      internalID: 7582343502109602996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_40
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 628
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb29807a11c4d1870800000000000000
+      internalID: 8655157697576473279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_41
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 619
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4002131a292c440800000000000000
+      internalID: 4954683761072538801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_42
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 612
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14c52155e2592110800000000000000
+      internalID: 1236610717552329758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_43
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 626
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437e0493b078f3310800000000000000
+      internalID: 1386975692528346932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_44
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 616
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2159c84a3b55650800000000000000
+      internalID: 6221075979596796611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_45
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 624
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e54b562a321cc30800000000000000
+      internalID: 4377819493178826344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_46
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 616
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24cfa76828ec2040800000000000000
+      internalID: 4624326177638564906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_47
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 626
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483b8138689d1f0c0800000000000000
+      internalID: -4543611377291840636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_48
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 614
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b111a2cd932b93070800000000000000
+      internalID: 8086690567497060635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_49
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 612
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3446bae0c7c5ae0800000000000000
+      internalID: -1559234968530172979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_50
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 609
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9d31472d8554e20800000000000000
+      internalID: 3334168760051554747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_51
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 602
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b7d1cea8e95d460800000000000000
+      internalID: 7265887893336193802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_52
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 79
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ed950bebdb86500800000000000000
+      internalID: 389769994467663481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_53
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 94
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b723432a7248e5f0800000000000000
+      internalID: -727258247475288142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_54
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 91
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8146c8a8c1f8da0800000000000000
+      internalID: -5940498002091960159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_55
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 86
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66a9fd6064379190800000000000000
+      internalID: -7955832627960109457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_56
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 73
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3190f11109c4110800000000000000
+      internalID: 1246529600084317090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_57
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 83
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044352264e431b500800000000000000
+      internalID: 410167196571219008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_58
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 31
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3c7d230b3f9df90800000000000000
+      internalID: -6928238613640002617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_59
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 49
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0963369298883b0800000000000000
+      internalID: -5510003333236617001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_60
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 53
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f407f496687534d70800000000000000
+      internalID: 9026154312984653903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_61
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 33
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c726af60f6aab55a0800000000000000
+      internalID: -6531439440735608196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_62
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 57
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b224cf95fef2210800000000000000
+      internalID: 1310529186351426424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_63
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 59
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f13a6953351303c0800000000000000
+      internalID: -4394645501095824907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_64
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 65
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fc42d370b43ad60800000000000000
+      internalID: 7900240665800658816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_65
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 63
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240d8291a5548ee50800000000000000
+      internalID: 6838792287433576514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_66
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 63
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2ffd16711ff2360800000000000000
+      internalID: 7147196216388874972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_67
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 49
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa56f007bbd27210800000000000000
+      internalID: 1329366419069360891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_68
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 51
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae25e8a292846b550800000000000000
+      internalID: 6176203280630043370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_69
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 49
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b3cea5203de9e00800000000000000
+      internalID: 1053511369920101179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_70
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 49
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4aeda7bf51ed6e0800000000000000
+      internalID: -1810985830313974573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_71
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 41
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a260c7d544b0d900800000000000000
+      internalID: 707263353562620579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_72
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 49
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e531f1fbea07ec980800000000000000
+      internalID: -8516745949477924002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_73
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 47
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb645d7c24c44ff20800000000000000
+      internalID: 3455470663804208828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_74
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 49
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0351b9c7c6e14d30800000000000000
+      internalID: 4414062855556518669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_75
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 49
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da7806167d86af50800000000000000
+      internalID: 6892351818052434648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_76
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 47
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd2b21ade449f8d0800000000000000
+      internalID: -2812140704914264625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_77
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 23
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2193369ec3f0ce7d0800000000000000
+      internalID: -2887916506763282158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_78
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 33
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa037b3e4b7eb40c0800000000000000
+      internalID: -4590320631073525590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_79
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 21
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0c426fc1df4f520800000000000000
+      internalID: 2735089174551249093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_80
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 27
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062be303beecafa30800000000000000
+      internalID: 4249936707899535968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_81
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 32
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641847d4b4ea9b030800000000000000
+      internalID: 3511029022957273414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Stone Resume Banner_82
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 18
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a9cec4d0d2e6b90800000000000000
+      internalID: -7246805215244150272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mossy Stone Resume Banner_0: 6676583511431769163
+      Mossy Stone Resume Banner_1: -6888213100424803047
+      Mossy Stone Resume Banner_10: 5310043574656378416
+      Mossy Stone Resume Banner_11: 6138158287181563349
+      Mossy Stone Resume Banner_12: -1765056288231846628
+      Mossy Stone Resume Banner_13: -6290872474036858797
+      Mossy Stone Resume Banner_14: -4435168639447670349
+      Mossy Stone Resume Banner_15: 6968668650982630846
+      Mossy Stone Resume Banner_16: -1804660311007932523
+      Mossy Stone Resume Banner_17: 8470572472934194166
+      Mossy Stone Resume Banner_18: 2939782763631224013
+      Mossy Stone Resume Banner_19: -9160352610121869
+      Mossy Stone Resume Banner_2: 3339031073802521629
+      Mossy Stone Resume Banner_20: 7556020620234388590
+      Mossy Stone Resume Banner_21: -8004673250382842187
+      Mossy Stone Resume Banner_22: 1938995927359236038
+      Mossy Stone Resume Banner_23: 5890851445426238911
+      Mossy Stone Resume Banner_24: 4491378442210649349
+      Mossy Stone Resume Banner_25: -3908725685361126156
+      Mossy Stone Resume Banner_26: 8145166505065102148
+      Mossy Stone Resume Banner_27: -814501964414116594
+      Mossy Stone Resume Banner_28: -7157568674780269046
+      Mossy Stone Resume Banner_29: -4271569947265673939
+      Mossy Stone Resume Banner_3: 7730714460747912824
+      Mossy Stone Resume Banner_30: 7264516567023644359
+      Mossy Stone Resume Banner_31: 5656160224250238782
+      Mossy Stone Resume Banner_32: 1191464583812299807
+      Mossy Stone Resume Banner_33: 2444917022842658200
+      Mossy Stone Resume Banner_34: 1226275673134597059
+      Mossy Stone Resume Banner_35: -2266656619333375698
+      Mossy Stone Resume Banner_36: 9145795224635770417
+      Mossy Stone Resume Banner_37: 7148817897766918112
+      Mossy Stone Resume Banner_38: 5118341990960305327
+      Mossy Stone Resume Banner_39: 7582343502109602996
+      Mossy Stone Resume Banner_4: 9211573680180977726
+      Mossy Stone Resume Banner_40: 8655157697576473279
+      Mossy Stone Resume Banner_41: 4954683761072538801
+      Mossy Stone Resume Banner_42: 1236610717552329758
+      Mossy Stone Resume Banner_43: 1386975692528346932
+      Mossy Stone Resume Banner_44: 6221075979596796611
+      Mossy Stone Resume Banner_45: 4377819493178826344
+      Mossy Stone Resume Banner_46: 4624326177638564906
+      Mossy Stone Resume Banner_47: -4543611377291840636
+      Mossy Stone Resume Banner_48: 8086690567497060635
+      Mossy Stone Resume Banner_49: -1559234968530172979
+      Mossy Stone Resume Banner_5: -7903900369659320874
+      Mossy Stone Resume Banner_50: 3334168760051554747
+      Mossy Stone Resume Banner_51: 7265887893336193802
+      Mossy Stone Resume Banner_52: 389769994467663481
+      Mossy Stone Resume Banner_53: -727258247475288142
+      Mossy Stone Resume Banner_54: -5940498002091960159
+      Mossy Stone Resume Banner_55: -7955832627960109457
+      Mossy Stone Resume Banner_56: 1246529600084317090
+      Mossy Stone Resume Banner_57: 410167196571219008
+      Mossy Stone Resume Banner_58: -6928238613640002617
+      Mossy Stone Resume Banner_59: -5510003333236617001
+      Mossy Stone Resume Banner_6: -3104017642135933799
+      Mossy Stone Resume Banner_60: 9026154312984653903
+      Mossy Stone Resume Banner_61: -6531439440735608196
+      Mossy Stone Resume Banner_62: 1310529186351426424
+      Mossy Stone Resume Banner_63: -4394645501095824907
+      Mossy Stone Resume Banner_64: 7900240665800658816
+      Mossy Stone Resume Banner_65: 6838792287433576514
+      Mossy Stone Resume Banner_66: 7147196216388874972
+      Mossy Stone Resume Banner_67: 1329366419069360891
+      Mossy Stone Resume Banner_68: 6176203280630043370
+      Mossy Stone Resume Banner_69: 1053511369920101179
+      Mossy Stone Resume Banner_7: -5560703449218043179
+      Mossy Stone Resume Banner_70: -1810985830313974573
+      Mossy Stone Resume Banner_71: 707263353562620579
+      Mossy Stone Resume Banner_72: -8516745949477924002
+      Mossy Stone Resume Banner_73: 3455470663804208828
+      Mossy Stone Resume Banner_74: 4414062855556518669
+      Mossy Stone Resume Banner_75: 6892351818052434648
+      Mossy Stone Resume Banner_76: -2812140704914264625
+      Mossy Stone Resume Banner_77: -2887916506763282158
+      Mossy Stone Resume Banner_78: -4590320631073525590
+      Mossy Stone Resume Banner_79: 2735089174551249093
+      Mossy Stone Resume Banner_8: 6903110523777456981
+      Mossy Stone Resume Banner_80: 4249936707899535968
+      Mossy Stone Resume Banner_81: 3511029022957273414
+      Mossy Stone Resume Banner_82: -7246805215244150272
+      Mossy Stone Resume Banner_9: -5284170433055628159
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: f05818f4e8d31ee4a8f1c23784be27ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7373924200113991359
+    second: Ornate Moss-Covered Settings Banner_0
+  - first:
+      213: -876245117497178556
+    second: Ornate Moss-Covered Settings Banner_1
+  - first:
+      213: -4898060165318355072
+    second: Ornate Moss-Covered Settings Banner_2
+  - first:
+      213: -4862186008245340244
+    second: Ornate Moss-Covered Settings Banner_3
+  - first:
+      213: -1455209446408447901
+    second: Ornate Moss-Covered Settings Banner_4
+  - first:
+      213: 8097835283567310998
+    second: Ornate Moss-Covered Settings Banner_5
+  - first:
+      213: -6068770258217438008
+    second: Ornate Moss-Covered Settings Banner_6
+  - first:
+      213: -6486684690036376856
+    second: Ornate Moss-Covered Settings Banner_7
+  - first:
+      213: 5463511454999342769
+    second: Ornate Moss-Covered Settings Banner_8
+  - first:
+      213: -8655745465003226267
+    second: Ornate Moss-Covered Settings Banner_9
+  - first:
+      213: -6984967095337875570
+    second: Ornate Moss-Covered Settings Banner_10
+  - first:
+      213: -1857931412672280915
+    second: Ornate Moss-Covered Settings Banner_11
+  - first:
+      213: 9200417921379587697
+    second: Ornate Moss-Covered Settings Banner_12
+  - first:
+      213: 7392405719369085849
+    second: Ornate Moss-Covered Settings Banner_13
+  - first:
+      213: 1977176096092895520
+    second: Ornate Moss-Covered Settings Banner_14
+  - first:
+      213: 3835139736503626732
+    second: Ornate Moss-Covered Settings Banner_15
+  - first:
+      213: 9135700805500290893
+    second: Ornate Moss-Covered Settings Banner_16
+  - first:
+      213: -5296487908977340363
+    second: Ornate Moss-Covered Settings Banner_17
+  - first:
+      213: 1574785155449375016
+    second: Ornate Moss-Covered Settings Banner_18
+  - first:
+      213: 3709945024325829657
+    second: Ornate Moss-Covered Settings Banner_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ornate Moss-Covered Settings Banner_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 17
+        width: 2141
+        height: 685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1419c8b320f8aa990800000000000000
+      internalID: -7373924200113991359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ornate Moss-Covered Settings Banner_1
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 699
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446096b45b3f6d3f0800000000000000
+      internalID: -876245117497178556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ornate Moss-Covered Settings Banner_2
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 660
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08755bd0b38960cb0800000000000000
+      internalID: -4898060165318355072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ornate Moss-Covered Settings Banner_3
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 699
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca779a2269b068cb0800000000000000
+      internalID: -4862186008245340244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ornate Moss-Covered Settings Banner_4
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 697
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3681801f7be0ecbe0800000000000000
+      internalID: -1455209446408447901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ornate Moss-Covered Settings Banner_5
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 691
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69877a6494a416070800000000000000
+      internalID: 8097835283567310998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ornate Moss-Covered Settings Banner_6
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 683
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c47e779a9567cba0800000000000000
+      internalID: -6068770258217438008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ornate Moss-Covered Settings Banner_7
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 683
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eaba6074aaaaf5a0800000000000000
+      internalID: -6486684690036376856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ornate Moss-Covered Settings Banner_8
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 665
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be638da8ba42db40800000000000000
+      internalID: 5463511454999342769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ornate Moss-Covered Settings Banner_9
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 683
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bc8441c5d90e780800000000000000
+      internalID: -8655745465003226267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ornate Moss-Covered Settings Banner_10
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 675
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87089a4f69601f90800000000000000
+      internalID: -6984967095337875570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ornate Moss-Covered Settings Banner_11
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 663
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da601a2593d4736e0800000000000000
+      internalID: -1857931412672280915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ornate Moss-Covered Settings Banner_12
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 665
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176d7f48a537eaf70800000000000000
+      internalID: 9200417921379587697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ornate Moss-Covered Settings Banner_13
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 661
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9937f8ac5d9179660800000000000000
+      internalID: 7392405719369085849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ornate Moss-Covered Settings Banner_14
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 629
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029b2021f27507b10800000000000000
+      internalID: 1977176096092895520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ornate Moss-Covered Settings Banner_15
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 41
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceba84a5547293530800000000000000
+      internalID: 3835139736503626732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ornate Moss-Covered Settings Banner_16
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 39
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d474816ca7788ce70800000000000000
+      internalID: 9135700805500290893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ornate Moss-Covered Settings Banner_17
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 45
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530114c0f481f76b0800000000000000
+      internalID: -5296487908977340363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ornate Moss-Covered Settings Banner_18
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 25
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8294e1c51c2cad510800000000000000
+      internalID: 1574785155449375016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ornate Moss-Covered Settings Banner_19
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 23
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9144b2fe75f5c7330800000000000000
+      internalID: 3709945024325829657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ornate Moss-Covered Settings Banner_0: -7373924200113991359
+      Ornate Moss-Covered Settings Banner_1: -876245117497178556
+      Ornate Moss-Covered Settings Banner_10: -6984967095337875570
+      Ornate Moss-Covered Settings Banner_11: -1857931412672280915
+      Ornate Moss-Covered Settings Banner_12: 9200417921379587697
+      Ornate Moss-Covered Settings Banner_13: 7392405719369085849
+      Ornate Moss-Covered Settings Banner_14: 1977176096092895520
+      Ornate Moss-Covered Settings Banner_15: 3835139736503626732
+      Ornate Moss-Covered Settings Banner_16: 9135700805500290893
+      Ornate Moss-Covered Settings Banner_17: -5296487908977340363
+      Ornate Moss-Covered Settings Banner_18: 1574785155449375016
+      Ornate Moss-Covered Settings Banner_19: 3709945024325829657
+      Ornate Moss-Covered Settings Banner_2: -4898060165318355072
+      Ornate Moss-Covered Settings Banner_3: -4862186008245340244
+      Ornate Moss-Covered Settings Banner_4: -1455209446408447901
+      Ornate Moss-Covered Settings Banner_5: 8097835283567310998
+      Ornate Moss-Covered Settings Banner_6: -6068770258217438008
+      Ornate Moss-Covered Settings Banner_7: -6486684690036376856
+      Ornate Moss-Covered Settings Banner_8: 5463511454999342769
+      Ornate Moss-Covered Settings Banner_9: -8655745465003226267
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
